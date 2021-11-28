@@ -1,16 +1,7 @@
-# rodeco_road_sign_rc
+<p align="center">
+    <img alt="logo" src="https://github.com/ferraridavide/rodeco_road_sign_rc/blob/master/logo.png">
+</p>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<b>Rodeco Road Sign RC</b>
+</p>
